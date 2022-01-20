@@ -4,7 +4,7 @@ Recipe by Chloe Lam
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-![Sandwhich](C:\Users\chloe\OneDrive\Documents\Pitt_Classes\Junior_2021\ENGCMP0600\Writing_Markdown\san.jpg}
+![](/path/to/san.jpg}
 
 Need a quick and easy snack? The peanut butter and jelly sandwhich is a classic 
 favorite among those who are in a rush to fill their stomaches, or just those who are craving something sweet. If you'd like to know how to make this snack on your own, keep reading below!
