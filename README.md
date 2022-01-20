@@ -9,6 +9,8 @@ Recipe by Chloe Lam
 Need a quick and easy snack? The peanut butter and jelly sandwhich is a classic 
 favorite among those who are in a rush to fill their stomaches, or just those who are craving something sweet. If you'd like to know how to make this snack on your own, keep reading below!
 
+---
+
 | Ready In | Serves | Yields | Nutrition |
 | ------ | ------ | ------ | ------ |
 | 5 minutes | 1 person | 1 sandwhich | [Nutrition](https://www.nutritionix.com/i/nutritionix/peanut-butter-and-jelly-sandwich-1-sandwich/5660be64732443e24734fe84)
